@@ -10,7 +10,7 @@ If you send hii then you can listen it and reply Hii.
   <li><a href="https://telegraf.js.org/classes/Telegraf-1.html#on">bot.on("message")</a>
     <li><a href="https://telegraf.js.org/classes/Telegraf-1.html#on">bot.action("action")</a> <code>Used for InlineQueries</code>
     <li><a href="https://telegraf.js.org/classes/Telegraf-1.html#hears">bot.hears("hii")</a>
-      <li><a href="https://telegraf.js.org/classes/Telegraf-1.html#command">bot.command.("hii")</a>
+      <li><a href="https://telegraf.js.org/classes/Telegraf-1.html#command">bot.command("hii")</a>
         <li><a href="https://telegraf.js.org/classes/Telegraf-1.html#on">bot.on("message")</a>
 </ol>
 
