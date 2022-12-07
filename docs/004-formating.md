@@ -69,7 +69,7 @@ And ${italic`put your helmet on`}
 
 This is what that looks like:
 
-<img src="./assets/fmt.jpg" alt="Output of the above code" width="500">
+<img src="https://raw.githubusercontent.com/feathers-studio/telegraf-docs/master/guide/assets/fmt.jpg" alt="Output of the above code" width="500">
 
 `fmt` also just works with captions, and even with only one of the helpers!
 
